@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Bastille</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Bastille</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 25 Nov 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Bastille Bastille helps you quickly create and manage FreeBSD Jails.
+Jails are extremely lightweight containers that provide a full-featured UNIX-like operating system inside. These containers can be used for software development, rapid testing, and secure production Internet services.
+Bastille provides an interface to create, manage and destroy these secure virtualized environments.
+Current version: 0.3.20181124-beta.
+Read the Bastille documentation.
+Review the source: BastilleBSD on GitHub.
+Community support in the Bastille Chat Server.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>/home/features/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/home/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jails Contain All The Things!</title>
+      <link>/home/jails/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/home/jails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jail Templates</title>
+      <link>/home/templates/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/home/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supported Clouds</title>
+      <link>/home/clouds/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/home/clouds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
